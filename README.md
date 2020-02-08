@@ -1,4 +1,6 @@
-# Repositori Kelas Sistem Intelijen Materi Regresi Linear
+# Materi Tugas Regresi Linear
+
+Repositori ini merupakan repositori tugas kuliah sistem intelijen materi Regresi Linear.
 
 * [Petunjuk](#petunjuk)
 
